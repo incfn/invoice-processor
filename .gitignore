@@ -1,0 +1,10 @@
+node_modules/
+uploads/*.pdf
+uploads/ocr_temp/
+.env
+*.log
+*.traineddata
+
+# Temp files generated during testing
+*_page*.png
+recognize_response.json
